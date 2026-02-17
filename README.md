@@ -186,6 +186,6 @@ marketing-funnel-intelligence/
 ## 👩‍💻 Author
 
 Vaishnavi Shivakumar  
-*Brains + Heart = Vaishnavi 💡💖 Always curious, always creating, always connecting.*
+
 
 ---
