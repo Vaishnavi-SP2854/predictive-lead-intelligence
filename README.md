@@ -185,4 +185,4 @@ marketing-funnel-intelligence/
 
 ## 👩‍💻 Author
 
-Vaishnavi Shivakumar 
+Vaishnavi Shivakumar P
