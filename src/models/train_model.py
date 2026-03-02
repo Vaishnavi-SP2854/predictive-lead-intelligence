@@ -1,6 +1,16 @@
-from sklearn.ensemble import RandomForestClassifier
+# src/models/train_model.py
 
-def train_model(X_train, y_train):
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
+
+
+def train_logistic(X_train, y_train):
+    model = LogisticRegression(max_iter=1000)
+    model.fit(X_train, y_train)
+    return model
+
+
+def train_random_forest(X_train, y_train):
     model = RandomForestClassifier(
         n_estimators=200,
         random_state=42
