@@ -100,7 +100,7 @@ By implementing predictive lead scoring:
 
 ## 👩‍💻 Author
 
-Vaishnavi Shivakumar  ...
+Vaishnavi Shivakumar  
 AIML Engineering Student | Data Science Enthusiast  
 
 Brains + Heart = Vaishnavi 💡💖  
