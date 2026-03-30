@@ -103,5 +103,5 @@ By implementing predictive lead scoring:
 Vaishnavi Shivakumar  
 AIML Engineering Student | Data Science Enthusiast  
 
-Brains + Heart = Vaishnavi 💡💖  
+Brains + Heart = Vaishnavi
 Always curious, always creating, always connecting.
